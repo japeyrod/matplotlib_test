@@ -1,0 +1,496 @@
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-15 04:43:04|1
+einvoicedownload|BussFail|该发票请求流水号（20181012084550075846）申请中，暂无法打印！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：XBLLNBFYJZ240|2
+QueryAllFlow|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|7
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT759.180117829843.0|2
+einvoicedownload|BussFail|该发票请求流水号（20181012085815064433）申请中，暂无法打印！|2
+QuerySumUsedFlowInfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT763.180105814270.0|1
+ABILITY_OPEN_COMMON_SENDSMS|BussFail|超过最大发送次数|3
+odchkorderinfo|BussFail|产品包数量检查不通过,产品包！|1
+kdcheckrenewals|BussFail|办理续费资格校验失败：null|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK9PP|1
+qrycredit|BusiSucc|成功|887664
+depositepaybackqry|BussFail|不是本地号码或不是有效号码|3
+DHQLWinviteMember|BusiSucc|invoke service: shortNumSendSms success!|95
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码已订购了优惠业务导致无法受理该业务，在优惠期结束前暂不能再办理哦，请释知。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981064|225
+ABILITY_OPEN_COMMODITY_QUERYCOUNTRYREGION|BusiSucc|成功|400
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10000000099991|1
+exchangeecoupon|BussFail|活动已过期，不允许兑换！|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10000000099992|1
+depositepaybackqry|BussFail|根据手机号码未查询到用户的预存返还信息|20227
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-12 03:17:58|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：WYTYB15G|21
+kdqueryorders|BusiSucc|成功|69
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：XYBAQY|24
+odchkorderinfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|1
+odchkorderinfo|BussFail|操作员权限不足,无法受理该产品|8
+kduserinfoqry|BusiSucc|查询成功|164
+odchkorderinfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|产品未订购|4
+qrycustintonetwork|BusiSucc|查询成功|2151
+exchangeecoupon|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|132
+DHQLWremoveMember|BusiSucc|invoke service: shortNumSendSms success!|43
+einvoicedownload|BussFail|该发票请求流水号（20181012080955097957）申请中，暂无法打印！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功订购天气预报，24小时内生效。敬请留意！|1
+odchkorderinfo|BussFail|不允许退订，原因是：该号码是万能副号主号，不符合办理条件：当前订购的产品不属于万能副号的85812001产品组。|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000016812|26
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000016813|10
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000016814|4
+ABILITY_OPEN_ShortNumberTalkingService_discard|BusiSucc|调用成功!|21
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：VZSHFX10TC|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000016816|34
+odchkorderinfo|BussFail|产品受理|4
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月06日09时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|6
+odchkorderinfo|BusiSucc|订单校验成功|1457
+QueryAllFlow||Execute sql failed. select commoditycode , commodityname,firstproductcode,secondproductcode from t_commodityprdrela  where firstproductcode in ('prod.10086000008548') or secondproductcode in ('prod.10086000008548')|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT750.180912206948.0|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：15NB600|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：88Y4GSLTC|7
+ABILITY_OPEN_AllPurposeViceNumServiceAble_orderAllPurposeViceNum|BusiSucc|invoke service: orderAllPurposeViceNum success!|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：360QNB10G|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消WLAN业务。|9
+ABILITY_OPEN_FamilyTalkingServiceAble_getGroupSmsPackage|BusiSucc|invoke service: getGroupSmsPackage success!|266
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：2017LLNB0|3
+exchangeecoupon|BussFail|锁定电子券失败:电子券预占中，暂不允许重复预占|19637
+odchkorderinfo|BussFail|用户已取消或未开通产品！|137
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000017919|17
+ccqrysubselectprods|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|1
+exchangeecoupon|BussFail|用户已开通产品,无需重复开通！|35
+exchangeecoupon|BussFail|兑换的手机号码与电子券绑定手机号码不一致|401
+exchangeecoupon|BussFail|您所订购的产品存在懒人计费宝用户不能订购的产品，请重新选择！|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YKTYB15G|27
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：MM2018082120Y3G|8
+depositepaybackqry|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|16
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您成功办理香港周套餐。欢迎使用！|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量10元闲时套餐哦。如有疑问请联系在线客服，感谢您的支持！|11
+exchangeecoupon|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.YJ|17
+ABILITY_OPEN_HswServiceApi_queryShortNumInfo|BussFail|token失效|151
+ABILITY_OPEN_FlowQueryServiceAble_newFlowQueryService|BussFail|invoke service: newFlowQueryService success!|4
+exchangeecoupon|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|61
+qrylistcenterrealtime|BussFail|:异常信息:调用清单服务失败,请重试;|20
+qrycustcallstatus|BusiSucc|成功|1674
+qrystarpointinfo|BussFail|查询无数据|29
+einvoicedownload|BussFail|该发票请求流水号（20181012082104030397）申请中，暂无法打印！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXAHF21|2
+qrylistcenterrealtime|BusiSucc||11873
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXAHF26|13
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|已透支元话费，请先缴清!|8
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXAHF27|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXAHF28|7
+exchangeecoupon|BussFail|用户余额不足|101
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理澳门日套餐，感谢您的支持！|13
+QueryAllFlow||Execute sql failed. select commoditycode , commodityname,firstproductcode,secondproductcode from t_commodityprdrela  where firstproductcode in ('prod.10086000008547') or secondproductcode in ('prod.10086000008547')|1
+qrycredit|BussFail|手机号码状态（正式销户）不允许查询|1
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月05日10时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|6
+ABILITY_OPEN_AllPurposeViceNumServiceAble_deleteViceNumMember|BusiSucc|invoke service: deleteViceNumMember success!|115
+odchkorderinfo|BussFail|产品约束检查不通过,，不能单独退订！|382
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|BussFail|查询不到编号为【14724046876】的用户!|3
+ccqrysubsinfo|BussFail|未找到.|4
+DHQLWinviteMember|BussFail|家庭网允许的最大异地成员数, 已经达到上限, 不能再加入异地成员!|1
+DHQLWinviteMember|BussFail|您好，业务受理未成功，原因：短号家庭网成员变更失败。506-988010|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功订购哦。如有疑问请联系在线客服，感谢您的支持！<br/>温馨提示：如您已开通协同服务，请点击<ahref=/SSO/SSOExit?ChannelId=139mailtarget=_blank>查阅邮件</a>查询所办理业务的信息。点击<atarget=_blankhref=/ngcrm/hall/servicearea/synergisticservices/index.jsp>邮件协同服务</a>可开通或取消协同服务。|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您成功办理香港日套餐。欢迎使用！无需使用时请及时发送QXHKRTC到10086取消。|78
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|<span style=white-space:nowrap;>尊敬的客户：您已成功取消智能应答功能哦。如有疑问请联系在线客服，感谢您的支持！</span>|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：LLTHBZY0|1
+orderDHQLW|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.YJ|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：SQSM10G|21
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000015161|30
+orderDHQLW|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.75700001091429|4
+ABILITY_OPEN_FamilyTalkingServiceAble_dependentQuit|BusiSucc|invoke service: dependentQuit success!|2
+qrycredit|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|1
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月05日17时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|4
+odchkorderinfo|BussFail|开机后3分钟内,月结日不是最新,不允许进行产品变更!|27
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT759.180408923904.0|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：LLNBSQ600|5
+QueryAllFlow|BusiSucc|成功|858911
+odqryorderbaseinfo|BusiSucc|查询成功|509
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|该产品不在用户允许订购或退订的产品白名单中，不允许订购或退订！|26
+qryhistoricaleinvoice|BusiSucc|成功|1075
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：180321878824|2
+ABILITY_OPEN_QUERYADAPTERPUBLISHINFO|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：非常抱歉，由于您暂未达到该业务办理条件，无法成功受理您的请求，敬请见谅。如需查询详情可先咨询在线客服，我们将贴心为您服务。祝您生活愉快～|2346
+DHQLWinviteMember|BussFail|对不起，您所邀请的号码已加入其它短号群聊网，如需加入，请退出原有短号群聊网。|3
+qrymonthpoint2|BussFail|用户没有积分|48
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：MG20G7|1
+queryecouponsbymobilenum|SysFail|调用渠道生产服务失败:服务|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您已成功取消健康随行短信版！|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：AQYQY7|6
+einvoicedownload|BussFail|该发票请求流水号（20181012083554066599）申请中，暂无法打印！|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消语音信箱，感谢您的支持！|5
+qrystarvaliddate|BussFail|查询无数据|24937
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：MGTVTYB15G|21
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消6元专用流量包(500M省内通用流量)，感谢您的支持！|42
+QueryAllFlow|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|2
+einvoicedownload|BussFail|该发票请求流水号（20181012085518058392）申请中，暂无法打印！|1
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-10-11 12:28:25|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|预生成|652
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT768.180105814068.0|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您已成功取消{0}，如需帮助我们将继续为您服务。感谢您的支持，祝您生活愉快！|16
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK9MG|8
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK9YK|17
+BillSearch|BussFail|账单为空|379
+QuerySumUsedFlowInfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+ccqrycustinfo|BusiSucc|成功|1251
+odchkorderinfo|BussFail|产品约束检查不通过,产品不能取消！|236
+exchangeecoupon|BussFail|校验不通过：检查当月是否已经办理过免费流量快餐|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：TTTYB15G|125
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您订购呼叫等待业务成功，谢谢使用！|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量10元套餐（2016），感谢您的支持！|22
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码是非本次活动的受邀客户导致无法受理该业务，如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981020|347
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已经成功退订彩印业务，业务退订立即生效，从下月起不再收取费用哦。如有疑问请联系在线客服，感谢您的支持！|26
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GFXGN38_2018|90
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码处于非正使用状态停机、销户等导致无法受理该业务，请在恢复正常状态后再申请哦。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981004|221
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：180321878756|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的产品已无法办理导致无法受理该业务。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981052|3
+ABILITY_OPEN_AllPurposeViceNumServiceAble_deleteViceNumMember|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|预订购|2
+modypwd1|BussFail|密码过于简单!|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您的神州行5元新短信套餐已成功退订！|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您已成功取消营养百科短信版业务！|2
+kdcheckrenewals|BussFail|宽带账号状态异常（停机、欠费销户、正式销户）暂不能办理续费|5228
+DHQLWmodifyMember|BusiSucc|业务成功|2
+ABILITY_OPEN_FamilyTalkingServiceAble_mainNumberFeeDeduction|BusiSucc|invoke service: mainNumberFeeDeduction success!|2696
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|BussFail|请求报文不是标准的XML或SOAP报文，详细原因：null|6
+DHQLWinviteMember|BussFail|您好，业务受理未成功，原因：该短号暂时被其他副号预占，请选择其他短号。506-27|3
+ABILITY_OPEN_COMMODITY_QUERYDETAIL|BussFail|没有查到相应数据|88
+odchkorderinfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|1
+qryhistoricaleinvoice|BussFail|没有符合查询条件的记录|188
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：NBYCHCY300|1
+kdqrycustinfo|BusiSucc|查询成功|112416
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理VoLTE功能，感谢您的支持！|6
+odcommitorder|BusiSucc|提交成功|1454
+ABILITY_OPEN_COMMON_SENDSMS|BusiSucc|成功|49880
+exchangeecoupon|BussFail|该产品不在用户允许订购或退订的产品白名单中，不允许订购或退订！|88
+einvoicedownload|BussFail|该发票请求流水号（20181012085508069622）申请中，暂无法打印！|2
+ABILITY_OPEN_CUSTOMER_QRYADDRESSMANAGE|BusiSucc|查询成功|359
+Qrynumbersumyinfo|BussFail|未找到.|1
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|BussFail|没有查询到用户的订购产品信息|2
+ABILITY_OPEN_AllPurposeViceNumServiceAble_queryViceNumMember|BusiSucc|invoke service: queryViceNumMember success!|301475
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：BZSP_ZS2018062502|5
+QueryAllFlow||Execute sql failed. select commoditycode , commodityname,firstproductcode,secondproductcode from t_commodityprdrela  where firstproductcode in ('jieyu') or secondproductcode in ('jieyu')|8
+qrystarvaliddate|BussFail|查询失败,查询不到号码为【13822988129】的用户!|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量5元套餐（2016），感谢您的支持！|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码业务与另一业务为捆绑关系导致无法受理该业务，不能单独退订哦。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981051|41
+ABILITY_OPEN_OnlineBespeakServiceAble_queryServerName|BusiSucc|invoke service: queryServerName success!|34
+qrystarpointinfo|BusiSucc|查询成功|297273
+kdtypequery|BusiSucc|成功|3405
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的用户：您已经成功取消“我爱我家”手机免费长途服务。|9
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|2
+kdcheckrenewals|BussFail|宽带账号暂不能办理续费,存在预生效套餐|69
+ABILITY_OPEN_FlowQueryAllServiceAble_queryDataPlanService|BussFail|成功|46
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：LLRB3|8
+exchangeecoupon|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|46
+ABILITY_OPEN_COMMON_SENDSMS|BussFail|参数的值不能为空|138
+einvoicedownload|BussFail|该发票请求流水号（20181012083705078541）申请中，暂无法打印！|1
+exchangeecoupon|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|20
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消“定向长途/家乡长途”服务哦。如有疑问请联系在线客服，感谢您的支持！|6
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：本业务不允许同时在多个渠道办理，请稍后再试！|217
+QuerySumUsedFlowInfo|BussFail|无数据|71
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您已办理4G随心王套餐，无法办理流量叠加包/流量月套餐等纯流量套餐、纯语音/短彩信套餐导致无法受理该业务。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007981029|1
+kdcheckrenewals|BussFail|尊敬的客户，您的号码已有成功订单，请勿重复下单|99
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：非常抱歉，由于您的号码在保护名单中导致无法受理该业务，请您带有效证件前往沟通100服务厅了解办理哦。如需查询详情可先咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007981060|22
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|成功|6958
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已经成功退订中文秘书，感谢您的支持！|1
+qrynkcustinfo|BusiSucc|成功|953
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-10-11 08:57:13|2
+ABILITY_OPEN_AllPurposeViceNumServiceAble_cancelAllPurposeViceNum|BusiSucc|invoke service: cancelAllPurposeViceNum success!|206
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理夜间流量套餐，感谢您的支持！|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机阅读风尚阅读包，感谢您的支持！|1
+queryallll|BusiSucc|查询成功|19
+exchangeecoupon|BussFail|产品约束检查不通过,产品|240
+einvoicedownload|BussFail|该发票请求流水号（20181012082755027998）申请中，暂无法打印！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消{0}，感谢您的支持！|17
+exchangeecoupon|BussFail|产品约束检查不通过,产品，请先办理被依赖的产品|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.75700001091430|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.75700001091431|1
+orderDHQLW|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+DHQLWinviteMember|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+qrysimcardinfo|BussFail|根据服务号码没有找到用户信息!|1
+QuerySumUsedFlowInfo|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=common#DEFAULT|217
+odcommitorder|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.HY|1
+ABILITY_OPEN_FamilyTalkingServiceAble_queryIsOtherTypeShortNo|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|7
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：NBYCHCY120|3
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月08日11时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|6
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-08 01:32:41|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：20Y20G12|76
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月09日09时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|2
+ABILITY_OPEN_FamilyTalkingServiceAble_checkNumberWhetherGDMobile|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量180元套餐（2016），感谢您的支持！|1
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-06 22:25:01|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理爆款流量套餐20G，感谢您的支持！|962
+QueryAllFlow||Execute sql failed. select commoditycode , commodityname,firstproductcode,secondproductcode from t_commodityprdrela  where firstproductcode in ('prod.10086000010915') or secondproductcode in ('prod.10086000010915')|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.YJ|7
+ABILITY_OPEN_ECouponManageServiceAble_getECoupon|BussFail|系统异常|281
+ABILITY_OPEN_ECouponManageServiceAble_getECoupon|BusiSucc|成功|18609
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-06-19 08:38:20|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|21
+exchangeecoupon|BussFail|黑名单：|55
+einvoicedownload|BussFail|该发票请求流水号（20181012081755078435）申请中，暂无法打印！|1
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|BusiSucc|成功|683206
+qrycustintonetwork|BussFail|无法查询用户入网时间|1
+qrytotalpoint|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.YJ|1
+odqryorderfee|BusiSucc|算费成功|1457
+ABILITY_OPEN_COMMODITY_QUERYINDEXINFO|BusiSucc|成功|1501
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JLBJJNBFY600|7
+qrytotalpoint|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|3
+kdcheckrenewals|BussFail|尊敬的客户，您已办理极光或不限量套餐，暂无法通过本渠道办理，请到营业厅办理续费，感谢!|21013
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-10-01 11:28:38|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消港澳台漫游服务！|88
+einvoicedownload|BussFail|该发票请求流水号（20181012081204027962）申请中，暂无法打印！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理广东手机报，感谢您的支持！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：DJB10|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：8Y8G48|15
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您退订呼叫等待业务成功，谢谢使用！|9
+qrysimcardinfo|BusiSucc|查询成功|1229
+BillSearch|BusiSucc|成功|24087
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码申请的业务未关联到与号码当前主套餐上导致无法受理该业务，暂时不能办理哦。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007981057|8
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：15NB360|6
+ABILITY_OPEN_AllPurposeViceNumServiceAble_orderAllPurposeViceNum|BussFail|尊敬的客户:万能副号业务受理失败。原因：未实名制副号不允许通过万能副号受理接口进行业务办理,请稍后再试！|4
+QuerySumUsedFlowInfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|7
+kduserinfoqry|BussFail|其它错误，具体原因见消息头部retmsg节点|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功开通港澳台漫游业务！|6
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的当月手机流量已经达到50G封顶限制导致无法受理该业务，如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007981026|6
+queryecouponsbymobilenum|BusiSucc|成功|627817
+ABILITY_OPEN_AllPurposeViceNumServiceAble_queryViceNumMember|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|1275
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-12 02:37:10|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：TXSPTYB15G|86
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|BussFail|请求报文格式有误,流程解析失败:InsertNodeNODE解析失败，错误描述 |2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK24PP|2
+QuerySumUsedFlowInfo|BussFail|失败.其它原因|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：非常抱歉，由于您的重复操作订购导致无法受理该业务哦。如需查询详情可先咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007981006|570
+odchkorderinfo|BussFail|产品使用|11
+ABILITY_OPEN_CUSTOMER_QRYMYDATEINFO|BussFail|对应的号码数据为空|1244
+QueryAllFlow|BussFail|查询无数据|16207
+DHQLWinviteMember|BussFail|您好，业务受理未成功，原因：该号码状态不正确，存在欠费、产品停用、业务未接入当前渠道等状态，暂不能办理。506-956123|10
+ABILITY_OPEN_FamilyTalkingServiceAble_queryIsOtherTypeShortNo|BussFail|the customer branch must not be empty|3
+exchangeecoupon|BussFail|锁定电子券失败:非目标客户|2
+qrystarvaliddate|BussFail|查询失败,查询不到号码为【18476091183】的用户!|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消新闻早晚报，感谢您的支持！|7
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-20 22:02:35|2
+ccqrysubselectprods|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码业务与另一业务存在业务关联关系导致无法受理该业务，暂时不允许退订哦。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981080|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消天气预报，24小时内生效。敬请留意！<p>&nbsp;</p>|14
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您已成功取消手机流量10元套餐，如需帮助我们将继续为您服务。感谢您的支持，祝您生活愉快！|21
+applychargeeinvoice|BusiSucc|成功|762
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：180321878693|2
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|5
+depositepaybackqry|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消4G手机流量20元套餐（预付费）哦。如有疑问请联系在线客服，感谢您的支持！|7
+ABILITY_OPEN_OnlineBespeakServiceAble_reqBooking|BusiSucc|invoke service: reqBooking success!|4
+QueryAllFlow||Execute sql failed. select commoditycode , commodityname,firstproductcode,secondproductcode from t_commodityprdrela  where firstproductcode in ('taowai') or secondproductcode in ('taowai')|1
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-07-11 22:33:53|1
+ABILITY_OPEN_COMMONDITY_QRYSUBCOMMONDITY|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|2
+ABILITY_OPEN_FamilyTalkingServiceAble_dependentQuit|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|2
+QuerySumUsedFlowInfo|BusiSucc|成功|2957
+qrystarvaliddate|BussFail|查询失败,查询不到号码为【13823824475】的用户!|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功退订该业务哦。如有疑问请及时联系在线客服哦，感谢您的支持！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：FYLLNB300|2
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-07 06:57:29|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：757.180920227123|17
+exchangeecoupon|BussFail|用户办理了品牌转换尚未生效,不能办理该业务|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：757.180920227124|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功退订全球通新10元短信套餐！|2
+kdqrycustinfo|BussFail|不是宽带用户|869493
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：WYYTYB2G|12
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|暂停|8
+Qrynumbersumyinfo|BussFail|BUSINESSID:svr_ccqrysubsinfo,号码查询归属地失败|2
+ABILITY_OPEN_AllPurposeViceNumServiceAble_orderAllPurposeViceNum|BussFail|尊敬的客户:万能副号业务受理失败。原因：没有取到对应的用户,请稍后再试！|1
+exchangeecoupon|BussFail|产品次，不能再次订购|10
+qrystarvaliddate|BusiSucc|查询成功|317172
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXAHF45|8
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消广东手机报，感谢您的支持！|7
+ABILITY_OPEN_FlowQueryServiceAble_newFlowQueryService|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|1
+exchangeecoupon|BussFail|用户已经达到100G数据流量封顶，不能办理流量套餐|18
+qrylistcenterrealtime|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|1
+exchangeecoupon|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|145
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXALL5|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|<span style=white-space:nowrap;>尊敬的客户：您已成功办理50元安心计划，首次办理半小时内生效，变更套餐下月生效哦。如有疑问请联系在线客服，感谢您的支持！</span>|1
+kdqueryorders|BussFail|查询无记录|19172
+qrypointrecdetail|BusiSucc|成功|2511
+odcommitorder|BussFail|申请成功，客户资料取BOSS中现有信息，投注方式是托收|1
+odchkorderinfo|BussFail|已办理SP服务总开关业务，请先取消总开关！|1
+qrytotalpoint|BusiSucc|查询成功|354168
+ABILITY_OPEN_COMMON_SENDSMS|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=common#DEFAULT|3684
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK24AQY|33
+qrycredit|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.MM|11
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：WLAN20Y|1
+ABILITY_OPEN_FlowQueryAllServiceAble_queryDataPlanService|BusiSucc|成功|1093
+ABILITY_OPEN_OuterRechargeServiceAble_applyElectronicInvoice|BusiSucc|invoke service: applyElectronicInvoice success!|2169
+ABILITY_OPEN_OnlineBespeakServiceAble_queryBooking|BusiSucc|invoke service: queryBooking success!|522
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：RWYTC188|1
+QueryDailyUsedFlowDetail|BussFail|系统异常|66
+odchkorderinfo|BussFail|产品约束检查不通过,|34
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量50元套餐（2016），感谢您的支持！|2
+QuerySumUsedFlowInfo|BussFail|账单为空|9
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|开机后3分钟内,月结日不是最新,不允许进行产品变更!|234
+qrynkcustinfo|BussFail|查询不到号码为【18476091183】的用户!|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：MGTYB30G|178
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您的10元1G流量特惠包已生效，有效期7天，赶紧来体验吧！感谢您的支持！|250
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：VZSHFX5TC|149
+chkiddroamopen|BusiSucc|成功|43
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量30元套餐（2016），感谢您的支持！|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：SDMG|167
+applymontheinvoice|BussFail|函数.|335
+ABILITY_OPEN_RealtimeListLeftServiceAble_leftQueryTimes|BusiSucc|invoke service: leftQueryTimes success!|12295
+DHQLWinviteMember|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|1
+QuerySumUsedFlowInfo|SysFail|模板执行出错,源参数内容:-!|2
+orderDHQLW|BussFail|业务规则校验失败:号码状态不为正使用，则不允许办理家庭共享套餐（集团）业务!|2
+odchkorderinfo|BussFail||61
+qrymonthpoint2|BusiSucc|查询成功|2513
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：PRAENT_NUMBER|6
+ABILITY_OPEN_QUERYADAPTERPUBLISHINFO|BussFail|商品上架检查不通过|15
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-08-01 22:08:48|4
+ABILITY_OPEN_FamilyTalkingServiceAble_dependentQuit|BussFail|没有号码为主号的欢乐在线家庭网, 无法受理业务!|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|7
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.76000000087689|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：HJYHB50|1
+ccqrysubselectprods|BussFail|未找到.|6
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：XBLLNBYC300|8
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码在办理品牌转换尚未生效导致无法受理该业务，请在生效后再办理！如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981054|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|产商品受理协议适配,商品无法适配到产品,商品编码:4GFXGN88_2018:产商品适配CRM产品列表为空！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+kdqrycustinfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+ABILITY_OPEN_OnlineBespeakServiceAble_queryHistory|BusiSucc|invoke service: queryHistory success!|1312
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理0元1G流量快餐（有效期4小时），感谢您的支持！|4310
+exchangeecoupon|BussFail|系统繁忙|2173
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-08-03 00:31:59|1
+ABILITY_OPEN_ECouponManageServiceAble_getECoupon|BussFail|已达到指定活动领取次数上限，不允许再领用 !|1
+qrytotalpoint|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|1
+qrytotalpoint|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+queryDHQLWMembers|BusiSucc|查询成功|2696
+qrytotalpoint|BussFail|根据手机号码查不到用户资料|7
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：LLB180|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码业务与号码已订购的业务存在产品互斥关系导致无法受理该业务。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981003|85
+odqryorderbaseinfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|1
+Qrynumbersumyinfo|BusiSucc|查询成功|90796
+applymontheinvoice|BusiSucc|成功|1012
+odqryorderbaseinfo|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+queryecouponsbymobilenum|BussFail|不存在电子券记录|6142
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-08 21:45:43|1
+chinaphonequery|BusiSucc|成功|365
+ABILITY_OPEN_FamilyTalkingServiceAble_checkNumberWhetherGDMobile|BusiSucc|invoke service: checkNumberWhetherGDMobile success!|197
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：AQYTYB15G|297
+ABILITY_OPEN_OnlineBespeakServiceAble_saveData|BusiSucc|invoke service: saveData success!|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT750.180912206949.0|2
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-10-11 08:15:18|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量20元套餐（2016），感谢您的支持！|11
+orderDHQLW|BussFail|调用融合计费接口【IntegrationCalFee】失败，失败原因：用户余额不足!|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码余额不足抵扣该业务费用导致无法受理该业务，请您充值后办理哦。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！008981025|304
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的业务已取消或未开通导致无法办理该业务。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007981007|13
+kdcheckrenewals|BussFail|宽带账号暂不能办理续费,请到营业厅办理宽带套餐|5712
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月11日14时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|6
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT758.180329901100.0|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：XYBMGO|1
+exchangeecoupon|BussFail|开机后3分钟内,月结日不是最新,不允许进行产品变更!|324
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK24MG|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：4GRWKTK24YK|25
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.75700001094638|21
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.75700001094639|1
+exchangeecoupon|BusiSucc|成功|82957
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JT5GBXL|1
+odqryorderbaseinfo|BussFail|订单不存在|61
+ABILITY_OPEN_PhoneTrafficTransferServiceAble_queryPhoneTrafficTransferRecordFromCrm|SysFail|调用渠道生产服务失败:服务返回超时，服务节点=ecop_server#APP|12
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT759.180509954870.0|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|已开通|671
+ABILITY_OPEN_HswServiceApi_maintainShortNum|BussFail|系统错误|8
+QueryAllFlow|SysFail|调用渠道生产服务失败:服务|1
+exchangeecoupon|BussFail|产品数组中的主体产品与传入的主体产品不一致|2
+ABILITY_OPEN_CUSTOMER_QRYMYDATEINFO|BusiSucc|查询成功|11
+einvoicedownload|BussFail|该发票请求流水号（20181012081618052072）申请中，暂无法打印！|1
+qrycredit|BussFail|手机号码状态（欠费销户）不允许查询|17
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：HJY20181|26
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：XBLLNBFYJZ120|6
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：HJY20184|6
+ccqrysubselectprods|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|1
+ABILITY_OPEN_HswServiceApi_getToken|BusiSucc|处理成功|2314
+odchkorderinfo|BussFail|产品约束检查不通过，,不能单独退订|4
+ccqrysubselectprods|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|1
+QueryDailyUsedFlowDetail|BusiSucc|成功|1216
+einvoicedownload|BusiSucc|成功|793
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：XBLLNBYC120|10
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户:因系统繁忙,办理失败,敬请见谅!请前往附近营业厅或致电10086详询办理.感谢您的支持,祝生活愉快!|134
+depositepaybackqry|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|1
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-15 10:59:17|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：SAPP200ygjq|2
+ABILITY_OPEN_HswServiceApi_maintainShortNum|BusiSucc|尊敬的客户，您已经成功取消短信集群网！|11
+applychargeeinvoice|BussFail|只有预付费号码可以打印充值发票|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消夜间流量套餐，感谢您的支持！|8
+depositepaybackqry|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|5
+qrylistcenterrealtime|BussFail|无查询结果!|19
+ABILITY_OPEN_FlowQueryServiceAble_newFlowQueryService|BusiSucc|invoke service: newFlowQueryService success!|64345
+ABILITY_OPEN_HswServiceApi_queryShortNumInfo|BusiSucc|处理成功|1913
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：2Y1G7|35
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：KJ10G7|4
+ABILITY_OPEN_COMMODITY_QUERYDETAIL|BusiSucc|成功|253
+orderDHQLW|BusiSucc|新家庭网短号业务受理成功|28
+ccqrysubsinfo|BusiSucc|查询成功|10607
+modypwd1|BusiSucc|修改密码成功|7
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：SAPP100ygjq|1
+QueryDailyUsedFlowDetail|BussFail|查询无数据|259
+ABILITY_OPEN_QUERYADAPTERPUBLISHINFO|BusiSucc|成功|36269
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-08-09 23:24:07|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的号码其他未定义返回导致无法受理该业务，暂时不能办理哦。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！007111|8
+qrypointrecdetail|BussFail|无查询结果!|50
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理国际及港澳台漫游，欢迎使用！|31
+ABILITY_OPEN_OnlineBespeakServiceAble_getBookTime|BusiSucc|invoke service: getBookTime success!|68
+QueryAllFlow||Execute sql failed. select commoditycode , commodityname,firstproductcode,secondproductcode from t_commodityprdrela  where firstproductcode in ('prod.10086000014096') or secondproductcode in ('prod.10086000014096')|1
+odchkorderinfo|BussFail|错误信息【已升级为咪咕特级会员，不能单独取消彩铃功能】|4
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：YXAHF19|2
+einvoicedownload|BussFail|该发票请求流水号（20181012081115098030）申请中，暂无法打印！|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：5Y20GTH|3
+kdcheckrenewals|BussFail|宽带优惠方案还可使用，暂不能办理续费|58666
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT751.180502949740.0|5
+applychargeeinvoice|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.76800001200847|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您已成功取消手机融合流量10元夜间套餐（闲时），如需帮助我们将继续为您服务。感谢您的支持，祝您生活愉快！|3
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功办理60元流量安心包，感谢您的支持！|3
+ABILITY_OPEN_QUERYADAPTERPUBLISHINFO|BussFail|函数.|1
+qrycredit|BussFail|手机号码状态（预约销户）不允许查询|9
+ccqrysubselectprods|BusiSucc|查询成功|89727
+qrylistcenterrealtime|BussFail|尊敬的客户，您于2018年10月10日09时办理了补卡业务，为保障您的权益，请您在补卡的7天后再进行清单查询。中国移动!|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消VoLTE功能，感谢您的支持！|106
+QueryAllFlow|BussFail|根据手机号码查不到用户|18
+qrycredit|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.ZJ|7
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JLBJJNBYC360|34
+qrycredit|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.JM|12
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：757.180920227474|3
+ABILITY_OPEN_PhoneTrafficTransferServiceAble_queryPhoneTrafficTransferRecordFromCrm|BusiSucc|invoke service: queryPhoneTrafficTransferRecordFromCrm success!|2391
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：757.180920227475|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JLBJJNBFY360|9
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-10-07 09:15:56|3
+modradiususerstate|BussFail|同步状态传值有误|164
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：TT20G7|4
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-06-20 23:09:08|1
+ABILITY_OPEN_HswServiceApi_getToken|SysFail|调用成功!|416
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.10086000015158|327
+ABILITY_OPEN_OnlineBespeakServiceAble_isExist|BusiSucc|invoke service: isExist success!|1316
+ccqrysubselectprods|BussFail|不存在该产品订购关系|102070
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户，您已成功取消手机流量20元套餐，如需帮助我们将继续为您服务。感谢您的支持，祝您生活愉快！|5
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：QQT1G|1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：FX8S|40
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消国际及港澳台漫游，欢迎再次使用！|18
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：JYPT759.180408923908.0|1
+ABILITY_OPEN_HswServiceApi_queryShortNumInfo|SysFail|调用成功!|228
+ABILITY_OPEN_FamilyTalkingServiceAble_queryIsOtherTypeShortNo|BusiSucc|invoke service: queryIsOtherTypeShortNo success!|155
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可订购，检查不通过,商品编码为：PV.NoMissCall.0|1
+kdcheckrenewals|BusiSucc|办理续费资格校验成功,宽带账号可办理续费|11370
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|尊敬的客户：很抱歉地告诉您，由于您的业务涉及重复开通、重复取消、未找到对应产品信息等情况导致无法受理该业务。如需查询详情请咨询在线客服，我们将贴心为您服务哦。感谢您的支持，祝生活愉快！7981023|925
+ABILITY_OPEN_HswServiceApi_maintainShortNum|SysFail|调用成功!|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：BKLL7|35
+odchkorderinfo|BussFail|黑名单：|50
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：prod.76000000088342|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：MGSPTHJDFY|8
+exchangeecoupon|BussFail||580
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-08-11 03:50:38|1
+qrynkcustinfo|BussFail|该用户不是用户!|276
+odchkorderinfo|BussFail|产品校验检查失败|37
+qrylistcenterrealtime|BussFail|结束帐期小于过户(新开户)帐期,不能查询;过户(新开户)时间为2018-09-05 01:11:32|1
+qrychargerecord|BusiSucc|成功|5059
+DHQLWinviteMember|BussFail|您增加成员不成功，该号码已加入其他短号群聊网，一个号码仅能加入一个短号群聊网。 |1
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|SysFail|服务调用失败:CRM服务返回超时，服务节点=CRM.GZ|21
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BussFail|虚拟商品渠道校验,参数检查失败:商品是否可退订，检查不通过,商品编码为：WLAN10Y|2
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功订购神州行5元新短信套餐哦。如有疑问请联系在线客服，感谢您的支持！<br/>温馨提示：如您已开通协同服务，请点击<ahref=/SSO/SSOExit?ChannelId=139mailtarget=_blank>查阅邮件</a>查询所办理业务的信息。点击<atarget=_blankhref=/ngcrm/hall/servicearea/synergisticservices/index.jsp>邮件协同服务</a>可开通或取消协同服务。|2
+depositepaybackqry|BusiSucc|查询成功|45955
+ABILITY_OPEN_STACOMMONDITY_SMSHANDLE|BusiSucc|尊敬的客户：您已成功取消手机流量10元套餐，感谢您的支持！|3

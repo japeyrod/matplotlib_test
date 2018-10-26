@@ -17,7 +17,7 @@ for tup in tups:
         day_hours.append(day + hour)
     datas += tup[1][1]
 
-charts = [(day_hours, datas)]
+charts = [(day_hours, datas, "True data")]
 
 
 #起点和当前时间点每次+1
@@ -25,7 +25,7 @@ all_cu_datas = [[],[]]
 # pre_hours = []
 # cu_data_rows = []
 def recu(start_index, end_index):
-    if not end_index < len(day_hours) - 1:
+    if not end_index < len(day_hours):
         return
     cu_datas = []
     for i in range(start_index, end_index):
@@ -44,11 +44,32 @@ def recu(start_index, end_index):
     recu(start_index, end_index)
 
 
-# 移位整理
+# # 移位整理
 recu(0, 24)
-
-#计算
+#
+# #计算
 results = je.excute(je.arma_mul_datas, all_cu_datas[1])
 
-charts.append((all_cu_datas[0], results))
+charts.append((all_cu_datas[0], results, "Prediction data"))
+for chart in charts:
+    for index, x_name in enumerate(chart[0]):
+        aa = list(x_name)
+        aa.insert(2, "-")
+        aa += ":00"
+        chart[0][index] = "".join(aa)
+
+#按最短的为准
+lenth = 0
+for chart in charts:
+    tmp = len(chart[0])
+    if lenth == 0 or tmp < lenth:
+        lenth = tmp
+
+#向后截取
+for index, chart in enumerate(charts):
+    tmp = len(chart[0])
+    new_chart = (chart[0][tmp - lenth:tmp], chart[1][tmp - lenth:tmp], chart[2])
+    charts[index] = new_chart
+
+
 fa.show_charts(charts)

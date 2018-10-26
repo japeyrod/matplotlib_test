@@ -1,8 +1,9 @@
 import os
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib.ticker import MultipleLocator, FormatStrFormatter
 
-interface_name = "odchkorderinfo"
+interface_name = "ccqrysubselectprods"
 path = "data/fanhuima/"
 files = os.listdir(path)
 
@@ -50,6 +51,7 @@ def count_all_day_dict():
         count = v.get(interface_name)
         if not count:
             count = 0
+            print(day + "-" + hour)
         hour_list[0].append(hour)
         hour_list[1].append(count)
 
@@ -79,6 +81,8 @@ def init_chart(axis):
     plt.rcParams['font.sans-serif'] = ['SimHei']  # 用来正常显示中文标签
     plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
     plt.title(interface_name + "接口调用情况")
+    # figure, ax = plt.subplots()
+    # plt.xticks(rotation=90)
     plt.xlabel(year + "-" + month)
     plt.ylabel("调用次数")
     plt.axis(axis)
@@ -87,16 +91,33 @@ def init_chart(axis):
 
 #chart_data_tups是元组列表[([x数据],[y数据]),{}]
 def show_charts(chart_data_tups):
+    #确定坐标边界
+    np_max = 0
+    x_max = 0
+    for chart_data_tup in chart_data_tups:
+        values = chart_data_tup[1]
+        if len(values) > x_max:
+            x_max = len(values)
+        if np.max(values) > np_max:
+            np_max = np.max(values)
+
+    init_chart([0, x_max, 0, np_max * 1.5])
+    ax = plt.subplot(111)
+    ax.xaxis.set_major_locator(MultipleLocator(12))
+
+
     for chart_data_tup in chart_data_tups:
         x_names = chart_data_tup[0]
+        label = chart_data_tup[2]
         y_values = chart_data_tup[1]
-        np_max = np.max(y_values)
-        init_chart([0, len(y_values), 0, np_max * 1.5])
         if len(x_names) != 0:
-            plt.plot(x_names, y_values)
+            plt.plot(x_names, y_values, label=label)
+            # plt.plot(y_values)
+
+            # ax.set_xticklabels(x_names)
         else:
-            plt.plot(y_values)
-        # plt.legend(loc='upper right')
+            plt.plot(y_values, label)
+    plt.legend(loc='upper right')
     plt.show()
 
 
